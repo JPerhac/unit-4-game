@@ -1,0 +1,58 @@
+#container {
+    background-image: url(background\ crystals.jpg);
+    height: 100%;
+}
+
+#top {
+    font-size: 25px;
+    box-sizing: border-box;
+    margin-left: 1%;
+    width: 200px;
+    background-color: orangered;
+    color: white;
+    height: 50px;
+    text-align: center;
+    margin: 0px 10px 10px 10px;
+    padding-top: 4px;
+}
+
+#instructions {
+    background-color: peachpuff;
+    width: 500px;
+    height: 410px;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+#total-score {
+    margin: 10px 10px 10px 10px;
+    background-color: green;
+    height: 200px;
+    max-width: 25%;
+}
+#wins-losses {
+    max-width: 12%;
+    margin: 10px 10px 10px 10px;
+    background-color: aqua;
+    height: 200px;
+}
+
+#your-total-score-is {
+    background-color: blue;
+    height: 50px;
+    width: 33%;
+}
+
+#your-total-score-value {
+    background-color: blue;
+    height: 50px;
+    width: 33%;
+    margin: 10px 10px 10px 10px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px 10px 10px;
+}
+
